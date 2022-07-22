@@ -1,8 +1,8 @@
 ## Hi there 👋
-We make Minecraft Java Edition mods!
+We make Minecraft Java Edition mods!<br/><br/>
 
-Creators of:
-BetterDeserts mod
+Creators of:<br/>
+BetterDeserts mod<br/><br/>
 
-Coded and developed by angxd
+Coded and developed by angxd<br/>
 Textures by garterSnake()
