@@ -2,5 +2,4 @@
 We make Minecraft Java Edition mods!<br/>
 
 Creators of:<br/>
-BetterDeserts<br/>
-Deeper And Darker<br/>
+Deeper And Darker (and Deeper And Darker Plus)<br/>
