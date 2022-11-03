@@ -1,5 +1,8 @@
 ## Hi there 👋
-We make Minecraft Java Edition mods!<br/>
+We make cross-platform Minecraft mods!<br/>
 
+[Visit our website](https://kyanitemods.dev/) <br/><br/>
 Creators of:<br/>
-Deeper And Darker (and Deeper And Darker Plus)<br/>
+Deeper And Darker<br/>
+Paragon<br/>
+Cross-UI
