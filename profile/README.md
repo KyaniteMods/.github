@@ -3,5 +3,5 @@ We make cross-platform Minecraft mods!<br/>
 
 [Visit our website](https://kyanitemods.dev/) <br/><br/>
 Creators of:<br/>
-Deeper And Darker<br/>
+Deeper and Darker<br/>
 Paragon<br/>
